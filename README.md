@@ -10,3 +10,5 @@ Code for parameter search is grid_search.py
 Matlab code for getting stats and figures - main_plot_results.m
 
 Parametric feature selection code - model.py. Currently not used.
+
+The data should be unzipped to ../data/
